@@ -9,4 +9,4 @@
 
 - Links 
 
-  You can reach me here. -> https://www.instagram.com/berksahindev/ - https://twitter.com/eberksahin
+  You can reach me here. -> https://www.instagram.com/eberksahin/ - https://twitter.com/eberksahin
