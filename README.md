@@ -4,9 +4,10 @@
 
 ### Languages
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html_32x32.png">
-<img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css_32x32.png">
-<img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_32x32.png">
+<p align="left">
+<a><img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html_32x32.png"></a>
+<a><img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css_32x32.png"></a>
+<a><img height="32" width="32" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_32x32.png"></a>
 
 
 ### Social
