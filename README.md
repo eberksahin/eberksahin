@@ -1,12 +1,9 @@
 ### "Hello World" 
 
-
-  I'm designing my future.
-
 - Explain Berk Sahin
 
-  I am trying to be a front end developer.
+    I'm designing my future.
 
 - Links 
 
-  You can reach me here. -> https://www.instagram.com/eberksahin/ - https://twitter.com/eberksahin
+  You can reach me here. -> https://www.instagram.com/eberksahin/ - https://twitter.com/eberksahin - https://www.linkedin.com/in/eberksahin/
