@@ -1,6 +1,10 @@
-### Who Am I?
+### Hi, My name is Berk Sahin 
 
-* I'm designing my future.
+* I'm studying Computer Programming.
+
+* I'm on my way to becoming a Full Stack Developer.
+
+* You can reach me at the addresses in the Social Section.
 
 ### Languages
 
