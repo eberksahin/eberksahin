@@ -1,10 +1,11 @@
-## "Hello World" 
+## Who Am I?
 
-- Explain Berk Sahin
+### Languages
 
-    I'm designing my future.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-- Links 
 
 ### Social
 <p align="left"> <a href="https://discord.com/users/BerkSah#1881" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Discord_white.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eberksahin/" target="_blank" rel="noreferrer">
