@@ -1,4 +1,4 @@
-### Hi, My name is Berk Sahin 
+### Hi, I'm Berk Sahin 
 
 * I'm studying Computer Programming.
 
