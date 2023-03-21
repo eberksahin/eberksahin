@@ -2,7 +2,7 @@
 
 * I'm studying Computer Programming.
 
-* I'm on my way to becoming a Full Stack Developer.
+* 
 
 
 ### Connect with me:
