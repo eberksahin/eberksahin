@@ -1,8 +1,6 @@
-### Hi, I'm Berk Sahin 
+### Hi, I'm Berk
 
 * I'm studying Computer Programming.
-
-* 
 
 
 ### Connect with me:
