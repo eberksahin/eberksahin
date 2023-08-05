@@ -1,18 +1,19 @@
-### Hi, I'm Berk
 
-* I'm studying Computer Programming.
+### [TR]
+Merhaba, Ben Berk. Kodlarla mücadele eden bir programcıyım.
+### [EN]
+Hi, I'm Berk. I'm a programmer struggling with code.
 
 
-### Connect with me:
+## Connect with me:
 
 <p align="left"> 
-    <a href="https://www.instagram.com/berksahindev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Instagram_white.png" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/eberksahin/" target="_blank" rel="noreferrer"><img src="https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/PNG/linkedin.png" width="32" height="32" /></a>
 
 
 
-### Languages And Tools
+## Languages And Tools
     
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/html/html_32x32.png"></a>
-<a><img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/css/css_32x32.png"></a>
-<a><img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_32x32.png"></a>
+<a><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" width="32" height="32"></a>
+
